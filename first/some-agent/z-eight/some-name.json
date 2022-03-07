@@ -1,0 +1,21 @@
+{
+  "version": "2.2.0",
+  "app": {
+    "name": "Random Randomski",
+    "type": "DEV",
+    "code": "first"
+  },
+  "repository": "local",
+  "info": {
+    "info1": "yes",
+    "info2": "no",
+    "info3": {
+      "port": 8080
+    }
+  },
+  "infos": [
+    {"some-info":  "yes"},
+    {"some-info2":  "yes2"},
+    {"some-info3":  "yes3"}
+  ]
+}
