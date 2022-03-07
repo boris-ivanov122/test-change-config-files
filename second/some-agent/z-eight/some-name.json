@@ -1,1 +1,1 @@
-{"version": "2.2.0", "app": {"name": "Randomski Random", "type": "TEST", "code": "second"}, "repository": "remote", "info": {"info1": "no", "info2": "yes", "info3": {"port": 9090}}, "infos": [{"some-info": "no"}, {"some-info2": "no2"}, {"some-info3": "no3"}]}
+"3.1.0"
