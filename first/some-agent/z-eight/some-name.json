@@ -14,7 +14,7 @@
     }
   },
   "infos": [
-    {"some-info":  "yes"},
+    {"some-info":  "no"},
     {"some-info2":  "yes2"},
     {"some-info3":  "yes3"}
   ]
