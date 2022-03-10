@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
+  "version": "3.3.0",
   "app": {
     "name": "Randomski Random",
     "type": "TEST",
@@ -14,8 +14,14 @@
     }
   },
   "infos": [
-    {"some-info":  "no"},
-    {"some-info2":  "no2"},
-    {"some-info3":  "no3"}
+    {
+      "some-info": "no"
+    },
+    {
+      "some-info2": "no2"
+    },
+    {
+      "some-info3": "no3"
+    }
   ]
 }
