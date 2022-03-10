@@ -1,21 +1,27 @@
 {
-  "version": "2.2.0",
-  "app": {
-    "name": "Random Randomski",
-    "type": "DEV",
-    "code": "first"
+ "version": "3.3.0",
+ "app": {
+  "name": "Random Randomski",
+  "type": "DEV",
+  "code": "first"
+ },
+ "repository": "local",
+ "info": {
+  "info1": "yes",
+  "info2": "no",
+  "info3": {
+   "port": 8080
+  }
+ },
+ "infos": [
+  {
+   "some-info": "yes"
   },
-  "repository": "local",
-  "info": {
-    "info1": "yes",
-    "info2": "no",
-    "info3": {
-      "port": 8080
-    }
+  {
+   "some-info2": "yes2"
   },
-  "infos": [
-    {"some-info":  "yes"},
-    {"some-info2":  "yes2"},
-    {"some-info3":  "yes3"}
-  ]
+  {
+   "some-info3": "yes3"
+  }
+ ]
 }
